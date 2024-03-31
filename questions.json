@@ -1,0 +1,57 @@
+[
+  {
+    "numb": 1,
+    "question": "Quelle est la capitale de la République démocratique du Congo ?",
+    "answer": "Kinshasa",
+    "options": [
+      "Lubumbashi",
+      "Kananga",
+      "Kinshasa",
+      "Goma"
+    ]
+  },
+  {
+    "numb": 2,
+    "question": "Quelle est la langue officielle de la RDC ?",
+    "answer": "français",
+    "options": [
+      "lingala",
+      "swahili",
+      "français",
+      "kikongo"
+    ]
+  },
+  {
+    "numb": 3,
+    "question": "Quel fleuve traverse la RDC ?",
+    "answer": "Fleuve Congo",
+    "options": [
+      "Fleuve Niger",
+      "Fleuve Congo",
+      "Fleuve Nil",
+      "Fleuve Zambèze"
+    ]
+  },
+  {
+    "numb": 4,
+    "question": "Quelle est la devise nationale de la RDC ?",
+    "answer": "Justice – Paix – Travail",
+    "options": [
+      "Unité – Travail – Progrès",
+      "Liberté – Travail – Patrie",
+      "Justice – Paix – Travail",
+      "Unité dans la diversité"
+    ]
+  },
+  {
+    "numb": 5,
+    "question": "Quelle est la superficie approximative de la RDC en kilomètres carrés ?",
+    "answer": "2 345 409 km²",
+    "options": [
+      "1 234 567 km²",
+      "3 456 789 km²",
+      "2 345 409 km²",
+      "4 567 890 km²"
+    ]
+  }
+]
